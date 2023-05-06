@@ -8,18 +8,13 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#8952e0",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "light": "#7434db",
+    "dark": "#a379e7"
   },
-  "topbarLinks": [
-    {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
+  "topbarLinks": [],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Dashboard",
+    "url": "https://dash.venom.ac"
   },
   "anchors": [
     {
@@ -30,18 +25,18 @@
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://mintlify.com"
+      "url": "https://venom.ac/changelog"
     },
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://venom.ac/discord"
     }
   ],
   "navigation": [
     {
-      "group": "Home",
-      "pages": ["introduction", "features"]
+      "group": "Getting Started",
+      "pages": ["introduction", "quickstart-guide"]
     },
     {
       "group": "API Documentation",
@@ -58,8 +53,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://venom.ac/github",
+    "discord": "https://venom.ac/discord"
   }
 }
